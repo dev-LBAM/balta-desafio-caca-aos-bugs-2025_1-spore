@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11121.172 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BugStore", "BugStore.csproj", "{9F6C5AF2-163C-87CA-9E93-09FF11C46CFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F6C5AF2-163C-87CA-9E93-09FF11C46CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6C5AF2-163C-87CA-9E93-09FF11C46CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6C5AF2-163C-87CA-9E93-09FF11C46CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6C5AF2-163C-87CA-9E93-09FF11C46CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33F7D58B-03EC-4E15-B15A-9F81257DCE6D}
+	EndGlobalSection
+EndGlobal
